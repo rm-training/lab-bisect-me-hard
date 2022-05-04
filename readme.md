@@ -3,7 +3,7 @@
 ---
 ## Fav Foods:
 
-* Roti
-* Pizza
-* Truffle Fries
-* Truffle Oil
+- Roti
+- Pizza
+- Truffle Fries
+- Truffle Oil
