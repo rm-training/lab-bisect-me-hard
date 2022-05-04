@@ -4,5 +4,5 @@
 ## Fav Foods:
 
 * Pizza
-* Fries
 * Oil
+* Fries
