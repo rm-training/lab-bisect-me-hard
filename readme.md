@@ -1,7 +1,6 @@
-# Readme
+# README
 
 ---
-
 ## Fav Foods:
 
 * Pizza
