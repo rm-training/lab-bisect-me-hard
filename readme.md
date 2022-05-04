@@ -3,6 +3,6 @@
 ---
 ## Fav Foods:
 
-* Pizza
 * Truffle Oil
+* Pizza
 * Fries
