@@ -5,5 +5,5 @@
 
 * Roti
 * Pizza
-* Fries
+* Truffle Fries
 * Truffle Oil
